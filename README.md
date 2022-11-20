@@ -1,6 +1,6 @@
 ##### About me:
 - 🧑‍💻 I'm Junior Frontend Developer
-- 👨‍🎓 LETI & Yandex.Practicum student
+- 👨‍🎓 Yandex.Practicum student
 - 📚   I’m currently learning TypeScript, React, Algorithms
 - 🔥  All my [projects](https://github.com/Victor-Stepanov?tab=repositories)
 ____
