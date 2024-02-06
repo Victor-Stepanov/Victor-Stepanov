@@ -1,8 +1,7 @@
 ##### About me:
-- 🧑‍💻 I'm Junior Frontend Developer
-- 👨‍🎓 LETI & Yandex.Practicum student 
-- 📚   I’m currently learning TypeScript, React, Algorithms
-- 🔥  All my [projects](https://github.com/Victor-Stepanov?tab=repositories)
+- 👨‍💻 I'm currently working at [Cian](https://vk.com/away.php?to=https%3A%2F%2Fwww.cian.ru&cc_key=)
+- 📚 I’m currently learning TypeScript, React, Algorithms
+- 🔥 All my [projects](https://github.com/Victor-Stepanov?tab=repositories)
 ____
 #### 🌐 Contact with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-stepanov-b20370251) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stepanovvi)
